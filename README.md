@@ -1,0 +1,2 @@
+# fikih-hyperfanny.oi
+template
